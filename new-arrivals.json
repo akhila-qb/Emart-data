@@ -1,0 +1,76 @@
+[
+  {
+    "id": 33,
+    "title": "3 Tier Corner Shelves",
+    "description": "3 Tier Corner Shelves | 3 PCs Wall Mount Kitchen Shelf | Floating Bedroom Shelf",
+    "price": 700,
+    "discountPercentage": 17,
+    "rating": 4.31,
+    "stock": 106,
+    "brand": "Kitchen Shelf",
+    "category": "furniture",
+    "thumbnail": "https://i.dummyjson.com/data/products/33/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/33/1.jpg",
+      "https://i.dummyjson.com/data/products/33/2.jpg",
+      "https://i.dummyjson.com/data/products/33/3.jpg",
+      "https://i.dummyjson.com/data/products/33/4.jpg",
+      "https://i.dummyjson.com/data/products/33/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Square Sunglasses",
+    "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
+    "price": 28,
+    "discountPercentage": 13.89,
+    "rating": 4.64,
+    "stock": 64,
+    "brand": "mastar watch",
+    "category": "sunglasses",
+    "thumbnail": "https://i.dummyjson.com/data/products/84/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/84/1.jpg",
+      "https://i.dummyjson.com/data/products/84/2.jpg",
+      "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "lighting ceiling kitchen",
+    "description": "Wholesale slim hanging decorative kid room lighting ceiling kitchen chandeliers pendant light modern",
+    "price": 30,
+    "discountPercentage": 14.89,
+    "rating": 4.83,
+    "stock": 96,
+    "brand": "lightingbrilliance",
+    "category": "lighting",
+    "thumbnail": "https://i.dummyjson.com/data/products/96/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/96/1.jpg",
+      "https://i.dummyjson.com/data/products/96/2.jpg",
+      "https://i.dummyjson.com/data/products/96/3.jpg",
+      "https://i.dummyjson.com/data/products/96/4.jpg",
+      "https://i.dummyjson.com/data/products/96/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Fog Scent Xpressio Perfume",
+    "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+    "price": 13,
+    "discountPercentage": 8.14,
+    "rating": 4.59,
+    "stock": 61,
+    "brand": "Fog Scent Xpressio",
+    "category": "fragrances",
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.png",
+      "https://i.dummyjson.com/data/products/13/3.jpg",
+      "https://i.dummyjson.com/data/products/13/4.jpg",
+      "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+    ]
+  }
+]
