@@ -549,7 +549,7 @@
         "category_products": [
             {
                 "id": 11,
-                "title": "perfume Oil",
+                "title": "Mumbai Noise",
                 "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
                 "price": 13,
                 "discountPercentage": 8.4,
@@ -557,7 +557,7 @@
                 "stock": 65,
                 "brand": "Impression of Acqua Di Gio",
                 "category": "fragrances",
-                "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+                "thumbnail": "https://cdn.shopify.com/s/files/1/0418/0662/6967/products/ProductListing-delossantosedplifestyle_a0a49737-a542-4f4d-8cd4-65d210574203_grande.png",
                 "images": [
                     "https://i.dummyjson.com/data/products/11/1.jpg",
                     "https://i.dummyjson.com/data/products/11/2.jpg",
